@@ -17,3 +17,31 @@ __pycache__/
 
 # Claude Code local config
 .claude/
+
+# Local-only working files (not part of the ecommerce case study repo)
+.vscode/
+Case_study_June_24_2026/
+Post Read/
+hello_world.ipynb
+hello_world_terminal.py
+session_1_19_june_2026.ipynb
+session_2_22_june_2026.ipynb
+session_3_24_june_2026.ipynb
+session_4_26_june_2_2026.ipynb
+session_5_29_june_2026.ipynb
+session_7_6_july_2026.ipynb
+E-commerce Case Study/Submission/
+E-commerce Case Study/text.txt
+Datasets/CustomersData.xlsx
+Datasets/E-commerce Marketing Case Study.docx
+Datasets/Zip/
+Datasets/amazon_data.csv
+Datasets/hw_dataset.csv
+Datasets/sales_data.csv
+Datasets/titanic.csv
+Datasets/zomato_dataset.csv
+Datasets/Case_Study/Dataset Description.docx
+Datasets/Case_Study/Dataset Description.pdf
+Datasets/Case_Study/E-commerce Marketing Case Study.pdf
+Datasets/Case_Study/Knowledge_Base.md
+Datasets/Case_Study/Scope_Document.md
