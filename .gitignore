@@ -45,3 +45,8 @@ Datasets/Case_Study/Dataset Description.pdf
 Datasets/Case_Study/E-commerce Marketing Case Study.pdf
 Datasets/Case_Study/Knowledge_Base.md
 Datasets/Case_Study/Scope_Document.md
+
+# CO2 Emission case study lives in its own repo (Co2-emission-regression-model-analysis),
+# not this one - kept out entirely rather than partially ignored.
+Datasets/Co2_Emission/
+Co2_Emission_case_Study_September_26_2026/
