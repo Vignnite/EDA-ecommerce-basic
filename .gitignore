@@ -56,3 +56,9 @@ Co2_Emission_case_Study_September_26_2026/
 # rather than partially ignored.
 Datasets/RF_Credit_card_defaulter_dataset/
 Random_Forest_case_study/
+
+# Sales Campaign case study lives in its own repo
+# (Sales-campaign-regresssion-analysis), not this one - kept out entirely
+# rather than partially ignored.
+Datasets/Sales_Campaign/
+Sales_Campaign_case_study/
