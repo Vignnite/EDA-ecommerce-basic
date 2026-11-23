@@ -62,3 +62,9 @@ Random_Forest_case_study/
 # rather than partially ignored.
 Datasets/Sales_Campaign/
 Sales_Campaign_case_study/
+
+# Nifty 50 clustering case study lives in its own repo
+# (clustering-analysis-nifty-50), not this one - kept out entirely
+# rather than partially ignored.
+Datasets/Practice/
+Heirarchial_Clustering/
